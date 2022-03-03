@@ -1,5 +1,5 @@
 <img align = "right" height = "590cm" 
-src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c931758928778b7/raw/a04dbbbd4a5eceea930ae5f38211e4c5cb551cb9/githubcard.svg" />
+src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c931758928778b7/raw/06274a780ec531bd0addca1268ce682bfa71352c/githubcard.svg" />
 <h1 align = "left"> Olá! Eu sou o Vitor. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitormeloa&color=yellow" alt="Profile views" /> </p>
 
