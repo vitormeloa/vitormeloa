@@ -1,16 +1,47 @@
-### Hi there 👋
+<img align = "right" height = "590cm" 
+src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c931758928778b7/raw/a04dbbbd4a5eceea930ae5f38211e4c5cb551cb9/githubcard.svg" />
+<h1 align = "left"> Oi, tudo bem? Prazer, Vitor Melo. </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitormeloa&color=yellow" alt="Profile views" /> </p>
 
-<!--
-**vitormeloa/vitormeloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Desenvolvedor Web Front End (em formação)
 
-Here are some ideas to get you started:
+- 🔭 Estudante de Ciência da Computação 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Aprendendo Pentest Hacking
+
+- 🥰  Amo tecnologia
+
+- ⚡ Fato Curioso: Sou fã de hiphop
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![PYTHON](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=1572B6)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/vitormeloa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormeloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeloa&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+  <a href="https://instagram.com/vitormelo.a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/leasonbloot" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "melo.vitor2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-melo-assuncao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
+  ![Snake animation](https://github.com/vitormeloa/vitormeloa/blob/output/github-contribution-grid-snake.svg)
+
