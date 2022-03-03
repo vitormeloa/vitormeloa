@@ -22,7 +22,7 @@ src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c93175
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=1572B6)&nbsp;
 
-<br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
