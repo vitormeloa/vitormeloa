@@ -34,7 +34,7 @@ src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c93175
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 📱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
   <a href="https://instagram.com/vitormelo.a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
