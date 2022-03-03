@@ -1,4 +1,4 @@
-<img align = "right" height = "590cm" 
+<img align="right" height="590cm" 
 src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c931758928778b7/raw/06274a780ec531bd0addca1268ce682bfa71352c/githubcard.svg" />
 <h1 align = "left"> Olá! Eu sou o Vitor. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitormeloa&color=yellow" alt="Profile views" /> </p>
@@ -28,8 +28,8 @@ src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c93175
 
 <div align="center">
   <a href="https://github.com/vitormeloa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormeloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeloa&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormeloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeloa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br><br>
