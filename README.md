@@ -26,13 +26,13 @@ src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c93175
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
+
   <a href="https://github.com/vitormeloa">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormeloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormeloa&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<br><br>
+
+<br><br><br><br><br><br><br>
 
 ## 📱 &nbsp;Social Links
 
