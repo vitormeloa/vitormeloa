@@ -1,17 +1,11 @@
-<img align="right" height="590cm" 
-src = "https://raw.githubusercontent.com/gist/vitormeloa/f613f2b9dedaecbd3c931758928778b7/raw/06274a780ec531bd0addca1268ce682bfa71352c/githubcard.svg" />
-<h1 align = "left"> Olá! Eu sou o Vitor. </h1>
+<h1 align = "left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Vitor.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitormeloa&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Web Front End (em formação)
+- 🔭 Computer Science student at the Federal University of Lavras - UFLA
 
-- 🔭 Estudante de Ciência da Computação 
+- 🔥 Practicing Web Development
 
-- 👨‍💻 Aprendendo Pentest Hacking
-
-- 🥰  Amo tecnologia
-
-- ⚡ Fato Curioso: Sou fã de hiphop
+- 👨‍💻 Learning Pentest Hacking
 
 <br><br>
 
