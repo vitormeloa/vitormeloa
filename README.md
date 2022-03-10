@@ -5,7 +5,7 @@
 
 - 🔥 Practicing Web Development
 
-- 👨‍💻 Learning Pentest Hacking
+- 👨‍💻 Learning Pentest
 
 <br><br>
 
