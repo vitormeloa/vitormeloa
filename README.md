@@ -3,9 +3,9 @@
 
 - 🔭 Computer Science student at Federal University of Lavras - UFLA
 
-- 🔥 Practicing Web Development
+- 🔥 Working with Full Stack Web Development
 
-- 👨‍💻 Learning Pentest
+- 👨‍💻 Learning React.js
 
 <br><br>
 
