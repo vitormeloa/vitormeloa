@@ -3,9 +3,9 @@
 
 - 🔭 Computer Science student at Federal University of Lavras - UFLA
 
-- 🔥 Working with Full Stack Web Development
+- 🔥 Working with Full Stack Web Development at @gafit
 
-- 👨‍💻 Learning Pentest Hacking
+- 👨‍💻 Learning Pentest Hacking at NESCAU - UFLA
 
 <br><br>
 
