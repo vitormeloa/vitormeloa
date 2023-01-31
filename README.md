@@ -5,7 +5,7 @@
 
 - 🔥 Working with Full Stack Web Development
 
-- 👨‍💻 Learning React & Node
+- 👨‍💻 Learning Pentest Hacking
 
 <br><br>
 
