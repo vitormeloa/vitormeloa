@@ -3,7 +3,7 @@
 
 - 🔭 Computer Science student at Federal University of Lavras - UFLA
 
-- 🔥 Working with Full Stack Web Development at @m3nf3
+- 🔥 Working with Full Stack Web Development
 
 - 👨‍💻 Learning Pentest Hacking at NESCAU - UFLA
 
