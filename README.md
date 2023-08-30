@@ -5,7 +5,7 @@
 
 - 🔥 Working with Full Stack Web Development
 
-- 👨‍💻 Learning Pentest Hacking at NESCAU - UFLA
+- 👨‍💻 Learning Cyber Security
 
 <br><br>
 
