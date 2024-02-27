@@ -20,6 +20,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=Node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![Livewire](https://img.shields.io/badge/-Livewire-05122A?style=flat&logo=Livewire)&nbsp;
 
 <br><br><br>
 
