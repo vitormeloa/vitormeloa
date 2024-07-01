@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">👋 Hi, I'm Vitor Melo!</h1>
 
 <p align="center">
@@ -39,3 +40,4 @@
   <a href="mailto:melo.vitor2001@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/vitor-melo-assuncao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+-->
