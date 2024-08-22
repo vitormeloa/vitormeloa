@@ -33,11 +33,14 @@
 ---
 
 ## 📱 &nbsp;Connect with Me
+-->
 
 <p align="center">
-  <a href="https://instagram.com/v1tor.melo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.twitch.tv/vma_dev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-  <a href="mailto:melo.vitor2001@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/vitor-melo-assuncao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <samp>
+    <a href="https://vitorcode.com" target="_blank">website</a> • 
+    <a href="https://instagram.com/v1tor.melo" target="_blank">instagram</a> • 
+    <a href="https://www.twitch.tv/vma_dev" target="_blank">twitch</a> • 
+    <a href="mailto:contato@vitorcode.com">contact</a> • 
+    <a href="https://www.linkedin.com/in/vitor-meloa" target="_blank">linkedin</a>
+  </samp>
 </p>
--->
