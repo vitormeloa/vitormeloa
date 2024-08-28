@@ -35,6 +35,7 @@
 ## 📱 &nbsp;Connect with Me
 -->
 
+<!--
 <p align="center">
   <samp>
     <a href="https://vitorcode.com" target="_blank">website</a> • 
@@ -44,3 +45,4 @@
     <a href="https://www.linkedin.com/in/vitor-meloa" target="_blank">linkedin</a>
   </samp>
 </p>
+-->
